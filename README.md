@@ -12,7 +12,9 @@ For project status and information about HackRF hardware availability, visit the
 |Holybro Telemetry Radio | HackRf One |
 | ------------- | ------------- |
 |<img src="uploads/81f6a5867216e0f486740f2c9ec537aa/holybro.PNG" alt="holybro" width="200"/>| <img src="uploads/492ccec079fe59ce1c55f9064fec5482/hackrf.PNG" alt="hackrf" width="200"/> |
-
+|Holybro Telemetry Radio | HackRf One |
+| ------------- | ------------- |
+|<img src="uploads/81f6a5867216e0f486740f2c9ec537aa/holybro.PNG" alt="holybro" width="200"/>| <img src="uploads/492ccec079fe59ce1c55f9064fec5482/hackrf.PNG" alt="hackrf" width="200"/> |
 
 
 
